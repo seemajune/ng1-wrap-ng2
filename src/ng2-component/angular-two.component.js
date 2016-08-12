@@ -2,11 +2,12 @@
     app.AngularTwoComponent = ng.core
         .Component({
             selector: 'angular-two',
-            template: '<h2>{{someText}}</h2>'
+            template: '<h2>{{assignment.title}}</h2>',
+            inputs: ['assignment']
         })
         .Class({
             constructor: function () {
-                this.someText = "This is an Angular 2 component."
+              
             }
         });
 })(window.app || (window.app = {}));
