@@ -1,0 +1,1 @@
+var adapter = new ng.upgrade.UpgradeAdapter();
