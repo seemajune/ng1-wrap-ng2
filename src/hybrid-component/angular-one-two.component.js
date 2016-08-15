@@ -9,32 +9,32 @@ myApp.directive("angularOneTwo", function () {
 		            "title": "Getting Started",
 		            "assignments": [
 		                {
-		                    "id": "watch-orientation-video",
-		                    "title": "Watch Orientation Video"
+		                    "title": "MCAT Assignment 1",
+		                    "subtitle": "Watch Orientation Video"
 		                },
 		                {
-		                    "id": "mcat-diagnostic-exam",
-		                    "title": "MCAT Diagnostic Exam"
+		                    "title": "MCAT Assignment 2",
+		                    "subtitle": "MCAT Diagnostic Exam"
 		                },
 		                {
-		                    "id": "science-assessments",
-		                    "title": "Science Assessments"
+		                    "title": "MCAT Assignment 3",
+		                    "subtitle": "Science Assessments"
 		                },
 		                {
-		                    "id": "important-welcome-message",
-		                    "title": "Important Welcome Message"
+		                    "title": "MCAT Assignment 4",
+		                    "subtitle": "Important Welcome Message"
 		                },
 		                {
-		                    "id": "how-to-access-your-mcat-flashcard-app",
-		                    "title": "How to Access your  MCAT Flashcard App"
+		                    "title": "MCAT Assignment 5",
+		                    "subtitle": "How to Access your  MCAT Flashcard App"
 		                },
 		                {
-		                    "id": "how-to-access-a-digital-version-of-your-mcat-review-books",
-		                    "title": "How to Access a Digital Version of your MCAT Review Books"
+		                    "title": "MCAT Assignment 6",
+		                    "subtitle": "How to Access a Digital Version of your MCAT Review Books"
 		                },
 		                {
-		                    "id": "information-about-your-higher-score-guarantee",
-		                    "title": "Information About your Higher Score Guarantee"
+		                    "title": "MCAT Assignment 7",
+		                    "subtitle": "Information About your Higher Score Guarantee"
 		                }
 		            ]
         		}

@@ -1,7 +1,7 @@
 myApp.directive("angularOne", function () {
     return {
         scope: "@",
-        template: '<h2>{{lesson[0].title}}</h2>',
+        template: '<h1>{{lesson[0].title}}</h1>',
         controller: function ($scope) {
 	        
         }
